@@ -1,0 +1,88 @@
+body{
+	background-color: white;
+	text-align: center;
+	color: black;
+	width: 100%;
+	height: 100%;
+	font-family: Helvetica;
+
+	background-size: cover;
+	}
+
+
+	img {
+	width: 15%;
+	float: left;
+	padding-left: 1%;
+	height: auto;
+}
+
+table {
+	margin-left: 17%;
+    background-color: Azure;
+}
+
+
+#general {
+	    width: 20%;
+	    float: left;
+	    margin-left: 3%;
+}
+
+#qualityOfLife {
+	    width: 20%;
+	    float: left;
+	    margin-left: 3%;
+}
+
+#taxes {
+	    width: 20%;
+	    float: left;
+	    margin-left: 3%;
+}
+
+#politicsAndEconomics {
+	    width: 20%;
+	    float: left;
+	    margin-left: 3%;
+}
+
+#healthcareAndScience {
+	    width: 20%;
+	    float: left;
+	    margin-left: 18%;
+	    margin-top: -3%;
+}
+
+.table-head {
+	font-size: 25px;
+}
+
+.topnav {
+  background-color: AliceBlue;
+  overflow: hidden;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  color: black ;
+  text-align: center;
+  padding: 30px 20px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: CornflowerBlue ;
+  color: white;
+}
+
